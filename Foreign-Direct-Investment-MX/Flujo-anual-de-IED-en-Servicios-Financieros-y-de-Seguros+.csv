@@ -1,0 +1,74 @@
+"Investment Type ID","Investment Type","Time ID","Year_","Investment (USD)"
+1,"Cuentas entre Compañías",1999,1999,31775247.57385254
+1,"Cuentas entre Compañías",2000,2000,125883079.5288086
+1,"Cuentas entre Compañías",2001,2001,-40924770.35522461
+1,"Cuentas entre Compañías",2002,2002,295408355.7128906
+1,"Cuentas entre Compañías",2003,2003,117266082.76367188
+1,"Cuentas entre Compañías",2004,2004,74672714.23339844
+1,"Cuentas entre Compañías",2005,2005,409149322.5097656
+1,"Cuentas entre Compañías",2006,2006,-19722745.895385742
+1,"Cuentas entre Compañías",2007,2007,-3240907.907485962
+1,"Cuentas entre Compañías",2008,2008,-4697309.970855713
+1,"Cuentas entre Compañías",2009,2009,-212767303.46679688
+1,"Cuentas entre Compañías",2010,2010,-6057170.867919922
+1,"Cuentas entre Compañías",2011,2011,-127791687.01171875
+1,"Cuentas entre Compañías",2012,2012,70745094.2993164
+1,"Cuentas entre Compañías",2013,2013,110432830.81054688
+1,"Cuentas entre Compañías",2014,2014,81980918.88427734
+1,"Cuentas entre Compañías",2015,2015,266687438.96484375
+1,"Cuentas entre Compañías",2016,2016,1027929077.1484375
+1,"Cuentas entre Compañías",2017,2017,104463165.28320312
+1,"Cuentas entre Compañías",2018,2018,89491081.23779297
+1,"Cuentas entre Compañías",2019,2019,305872253.41796875
+1,"Cuentas entre Compañías",2020,2020,1486466918.9453125
+1,"Cuentas entre Compañías",2021,"Ene-Sep 2023",413975372.3144531
+1,"Cuentas entre Compañías",2022,2022,294226806.640625
+1,"Cuentas entre Compañías",2023,2023,268124664.30664062
+2,"Nuevas Inversiones",1999,1999,179773727.4169922
+2,"Nuevas Inversiones",2000,2000,3947546875
+2,"Nuevas Inversiones",2001,2001,15468441406.25
+2,"Nuevas Inversiones",2002,2002,5303257812.5
+2,"Nuevas Inversiones",2003,2003,901504821.7773438
+2,"Nuevas Inversiones",2004,2004,5201015136.71875
+2,"Nuevas Inversiones",2005,2005,478557434.08203125
+2,"Nuevas Inversiones",2006,2006,1097771240.234375
+2,"Nuevas Inversiones",2007,2007,2484229980.46875
+2,"Nuevas Inversiones",2008,2008,3314799316.40625
+2,"Nuevas Inversiones",2009,2009,760667602.5390625
+2,"Nuevas Inversiones",2010,2010,688417846.6796875
+2,"Nuevas Inversiones",2011,2011,327378967.28515625
+2,"Nuevas Inversiones",2012,2012,-3442063964.84375
+2,"Nuevas Inversiones",2013,2013,-3004282958.984375
+2,"Nuevas Inversiones",2014,2014,548644775.390625
+2,"Nuevas Inversiones",2015,2015,1500647583.0078125
+2,"Nuevas Inversiones",2016,2016,993104003.90625
+2,"Nuevas Inversiones",2017,2017,239291488.64746094
+2,"Nuevas Inversiones",2018,2018,459646545.41015625
+2,"Nuevas Inversiones",2019,2019,2354351318.359375
+2,"Nuevas Inversiones",2020,2020,678295349.1210938
+2,"Nuevas Inversiones",2021,"Ene-Sep 2023",506773559.5703125
+2,"Nuevas Inversiones",2022,2022,1058615722.65625
+2,"Nuevas Inversiones",2023,2023,105576797.48535156
+3,"Reinversión de Utilidades",2001,2001,35718254.08935547
+3,"Reinversión de Utilidades",2002,2002,114859405.51757812
+3,"Reinversión de Utilidades",2003,2003,172379089.35546875
+3,"Reinversión de Utilidades",2004,2004,438710906.9824219
+3,"Reinversión de Utilidades",2005,2005,539258178.7109375
+3,"Reinversión de Utilidades",2006,2006,3842709716.796875
+3,"Reinversión de Utilidades",2007,2007,3915917968.75
+3,"Reinversión de Utilidades",2008,2008,4049172607.421875
+3,"Reinversión de Utilidades",2009,2009,2636695556.640625
+3,"Reinversión de Utilidades",2010,2010,1984186279.296875
+3,"Reinversión de Utilidades",2011,2011,3180515625
+3,"Reinversión de Utilidades",2012,2012,1310644531.25
+3,"Reinversión de Utilidades",2013,2013,2041612426.7578125
+3,"Reinversión de Utilidades",2014,2014,4422178710.9375
+3,"Reinversión de Utilidades",2015,2015,2023809204.1015625
+3,"Reinversión de Utilidades",2016,2016,1354504150.390625
+3,"Reinversión de Utilidades",2017,2017,1541879272.4609375
+3,"Reinversión de Utilidades",2018,2018,1767289794.921875
+3,"Reinversión de Utilidades",2019,2019,3016878173.828125
+3,"Reinversión de Utilidades",2020,2020,6633258789.0625
+3,"Reinversión de Utilidades",2021,"Ene-Sep 2023",4252686523.4375
+3,"Reinversión de Utilidades",2022,2022,3835620605.46875
+3,"Reinversión de Utilidades",2023,2023,6847919921.875
